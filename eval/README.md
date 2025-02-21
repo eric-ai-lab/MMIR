@@ -34,8 +34,8 @@ After setting up, run inference.sh to get model outputs on the question files. Y
 
 ## Get Evaluation results and scores
 
-We use o1-mini (0912) as a LLM judge to process the responses from the open-ended setting (*open.jsonl).
-
 After getting the output, run calculate_score.py to get scores for all models.
+
+We use o1-mini (0912) as a LLM judge to process the responses from the open-ended setting (*open.jsonl). Please set up the model keys in the script properly.
 
 
