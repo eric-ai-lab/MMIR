@@ -1,6 +1,6 @@
 # MMIR
 
-[**🌐 Homepage**](https://jackie-2000.github.io/mmir.github.io/) | [**🤗 Dataset**](https://huggingface.co/datasets/rippleripple/MMIR) | [**📖 Paper**](https://arxiv.org/abs/2405.20421) | [**GitHub**](https://github.com/eric-ai-lab/MMIR/)
+[**🌐 Homepage**](https://jackie-2000.github.io/mmir.github.io/) | [**🤗 Dataset**](https://huggingface.co/datasets/rippleripple/MMIR) | [**📖 Paper**](https://openreview.net/pdf?id=u0Az8rCAoZ) | [**GitHub**](https://github.com/eric-ai-lab/MMIR/)
 
 
 This repo contains the evaluation code for the paper "Multimodal Inconsistency Reasoning (MMIR): A New Benchmark for Multimodal Reasoning Models".
