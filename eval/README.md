@@ -14,6 +14,7 @@ Clone the official repo of open-sourced models into the following folder:
 Set up the environment for each open-sourced model as instructed by their original repo and run inference. For API-based models: o1 (1217) and GPT-4o (1120), set up your API key in the provided scripts under the /inference folder.
 
 After setting up, run inference.sh to get model outputs on the question files. Your folder structure should look like this:
+
     .   
     project-root
     ├── Qwen2.5-VL
