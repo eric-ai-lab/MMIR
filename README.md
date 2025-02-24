@@ -21,7 +21,6 @@ Please refer to our [eval](eval)
  folder for more details.
 
 ## 🏆 Leaderboard
-## 🏆 Leaderboard
 
 | Model               | Web (Open-ended) | Office (Open-ended) | Poster (Open-ended) | Overall (Open-ended) | Web (MCQ) | Office (MCQ) | Poster (MCQ) | Overall (MCQ) |
 |--------------------|:----------------:|:-------------------:|:-------------------:|:--------------------:|:--------:|:-----------:|:-----------:|:-------------:|
