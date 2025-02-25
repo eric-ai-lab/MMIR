@@ -1,6 +1,6 @@
 # MMIR
 
-[**🌐 Homepage**](https://jackie-2000.github.io/mmir.github.io/) | [**🤗 Dataset**](https://huggingface.co/datasets/rippleripple/MMIR) | [**📖 Paper**](https://openreview.net/pdf?id=u0Az8rCAoZ) | [**GitHub**](https://github.com/eric-ai-lab/MMIR/)
+[**🌐 Homepage**](https://jackie-2000.github.io/mmir.github.io/) | [**🤗 Dataset**](https://huggingface.co/datasets/rippleripple/MMIR) | [**📖 Paper**]([https://openreview.net/pdf?id=u0Az8rCAoZ](https://arxiv.org/pdf/2502.16033)) | [**GitHub**](https://github.com/eric-ai-lab/MMIR/)
 
 
 This repo contains the evaluation code for the paper "Multimodal Inconsistency Reasoning (MMIR): A New Benchmark for Multimodal Reasoning Models".
@@ -40,5 +40,13 @@ Please refer to our [eval](eval)
 
 **BibTeX:**
 ```bibtex
-TBD
+@misc{yan2025multimodalinconsistencyreasoningmmir,
+      title={Multimodal Inconsistency Reasoning (MMIR): A New Benchmark for Multimodal Reasoning Models}, 
+      author={Qianqi Yan and Yue Fan and Hongquan Li and Shan Jiang and Yang Zhao and Xinze Guan and Ching-Chen Kuo and Xin Eric Wang},
+      year={2025},
+      eprint={2502.16033},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2502.16033}, 
+}
 ```
